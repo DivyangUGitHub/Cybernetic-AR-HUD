@@ -98,11 +98,12 @@ graph TB
 ```
 <div align="left">
 ⭐ Don't forget to star this repo if you found it helpful!
-Built with ❤️ by Divyang U
+Built with 
+    ❤️ by Divyang U
 
-"The future is already here — it's just not evenly distributed." - William Gibson
 
 </div>
+
 
 
 
