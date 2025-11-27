@@ -1,6 +1,6 @@
 ﻿# Cybernetic-AR-HUD
 
-An open-source, stylized Augmented Reality Heads-Up Display that brings the cyberpunk future to your world. This project overlays a dynamic, interactive interface onto your real environment through AR devices, displaying vital information as if it were part of your vision.
+#An open-source, stylized Augmented Reality Heads-Up Display that brings the cyberpunk future to your world. This project overlays a dynamic, interactive interface onto your real environment through AR devices, displaying vital information as if it were part of your vision.
 
 🎮 Demo
 Coming soon - Screenshots and demo videos will be added here
@@ -35,3 +35,4 @@ Open a Pull Request
 
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
